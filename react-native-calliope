@@ -1,0 +1,12 @@
+{
+  title:            "React Native developer",
+  location:         "Anywhere",
+  experience:       "2 years",
+  frameworks:       "React Native",
+  freelance_ok:     "Yes",
+  hours_per_week:    40, // full time
+  company:          "https://www.calliope.consulting",
+  contact_person:   "zerothabhishek@gmail.com",
+  job_description:  "Hiring lead React Native developer for a US based startup",
+  other_comments:   ""
+}
